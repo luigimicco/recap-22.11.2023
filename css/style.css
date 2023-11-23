@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.circle {
+  width: 30%;
+  height: 50px;
+  border: 1px solid black;
+  font-size: 2rem;
+  background-color: red;
+  border-radius: 20px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+}
+
+main {
+  width: 80%;
+  height: 200px;
+  background-color: coral;
+  margin: 0 auto;
+}
+
+header {
+  height: 200px;
+  background-color: coral;
+  padding-left: 20px;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+h1 {
+  vertical-align: middle;
+  line-height: 200px;
+  display: inline-block;
+}
